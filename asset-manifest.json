@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.caf7a579.css",
+    "main.js": "/myportfolio/static/js/main.1a295609.js",
+    "static/media/oldp.png": "/myportfolio/static/media/oldp.d2fed18802dd61892b2f.png",
+    "static/media/atov.jpg": "/myportfolio/static/media/atov.4a1e2b3b65ee8d9be9eb.jpg",
+    "static/media/dc.png": "/myportfolio/static/media/dc.ee1403d65e898ce82c14.png",
+    "static/media/logo.png": "/myportfolio/static/media/logo.c1321e81d5ab9bf6e108.png",
+    "static/media/me.jpeg": "/myportfolio/static/media/me.a8a7ce53f3b2dee05461.jpeg",
+    "static/media/img.JPG": "/myportfolio/static/media/img.5a9faea6e8f250556d1f.JPG",
+    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.4a7529edfbbc793eeabb.pdf",
+    "static/media/sunlife.jpeg": "/myportfolio/static/media/sunlife.8086b76f51f52f70a8ba.jpeg",
+    "static/media/app.jpeg": "/myportfolio/static/media/app.5661366c0eff62bbb587.jpeg",
+    "static/media/CM.jpeg": "/myportfolio/static/media/CM.1f5e1aa4e733f7daad2a.jpeg",
+    "static/media/jira.png": "/myportfolio/static/media/jira.a17773fa0f7494702339.png",
+    "index.html": "/myportfolio/index.html",
+    "main.caf7a579.css.map": "/myportfolio/static/css/main.caf7a579.css.map",
+    "main.1a295609.js.map": "/myportfolio/static/js/main.1a295609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf7a579.css",
+    "static/js/main.1a295609.js"
+  ]
+}
